@@ -11,6 +11,10 @@
 
 	<artifactId>common</artifactId>
 
+	<modules>
+		<module>../backend</module>
+
+	</modules>
 	<dependencies>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
