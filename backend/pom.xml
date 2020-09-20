@@ -74,6 +74,11 @@
 
 	<dependencies>
 		<dependency>
+			<groupId>pl.sdacademy</groupId>
+			<artifactId>common</artifactId>
+			<version>${project.version}</version>
+		</dependency>
+		<dependency>
 			<groupId>mysql</groupId>
 			<artifactId>mysql-connector-java</artifactId>
 			<version>${mysql.version}</version>
